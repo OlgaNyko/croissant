@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background: beige;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+a {
+  color: brown;
+  margin: 20px;
+}
+h1 {
+  color: darkred;
+}
